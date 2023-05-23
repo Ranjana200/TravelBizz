@@ -9,7 +9,7 @@ import Lodges from './pages/Lodges';
 import Places from './pages/Places';
 import Login from './pages/Login'
 import Register from './pages/Register';
-
+//hello this is commit
 function App() {
   return (
     <div>
