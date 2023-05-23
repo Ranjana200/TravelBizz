@@ -1,0 +1,44 @@
+.navigation-menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 200%;
+}
+
+.navigation-menu li{
+    margin:0px 20px;
+}
+
+.litagg{
+    text-decoration: none;
+    color:aliceblue ;
+}
+
+.mobile-navigation{
+    list-style:none ;
+    text-align: center;
+    padding: 0;
+ }
+
+ .litag{
+   margin-top: 20px;
+    text-decoration: none;
+    font-size: 1.4rem;
+    color:black;
+ }
+
+ .Account{
+    align-items:flex-start;
+   position: relative;
+   margin-right: 60px;
+    
+ }
+
+ .sub{
+   border: none;
+   background-color: aquamarine;
+   border-radius:6px;
+   cursor:pointer;
+
+ }

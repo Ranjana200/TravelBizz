@@ -1,0 +1,29 @@
+
+
+.headerContainer{
+    width:auto;
+    margin: 30px;
+}
+.home{
+    height: 45vh;
+    width: 45vh;
+    display:flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    border-radius: 5%;
+}
+
+
+
+.home{
+    white-space: nowrap;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
